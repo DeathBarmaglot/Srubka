@@ -1,1 +1,1 @@
-https://raw.githack.com/DeathBarmaglot/Vik.io/master/index.html
+https://raw.githack.com/DeathBarmaglot/Srubka/master/index.html
